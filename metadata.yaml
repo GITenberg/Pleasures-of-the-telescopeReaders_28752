@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2120
     wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28752#Pleasures-of-the-telescopeReaders
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2009-05-10'
 gutenberg_type: Text
