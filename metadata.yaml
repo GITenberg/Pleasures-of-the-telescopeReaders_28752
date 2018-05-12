@@ -1,0 +1,33 @@
+_repo: Pleasures-of-the-telescopeReaders_28752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28752-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28752'
+  lccn: '01031372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- Amateurs'' manuals'
+- !lcsh 'Astronomy -- Observers'' manuals'
+- !lcsh 'Telescopes'
+- !lcc 'QB'
+title: "Pleasures of the telescope\r\nAn Illustrated Guide for Amateur Astronomers\
+  \ and a Popular Description of the Chief Wonders of the Heavens for General Readers"
+url: http://www.gutenberg.org/ebooks/28752
